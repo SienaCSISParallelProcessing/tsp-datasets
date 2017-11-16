@@ -1,0 +1,23 @@
+9
+0 150 350 450 475 500 550 750 1025 
+150 0 300 275 350 425 500 725 975
+350 300 0 200 225 250 325 450 600
+450 275 200 0 325 350 425 400 575 
+475 350 225 325 0 50 100 900 500
+500 425 250 350 50 0 75 925 450
+550 500 325 425 100 75 0 700 400
+750 725 450 400 900 925 700 0 675
+1025 975 600 575 500 450 400 675 0
+
+Hobbiton
+Bree
+Moria
+Rivendell
+Isengard
+Fangorn Forest
+Helm's Deep
+The Lonely Mountain
+Mount Doom (Orodruin)
+
+Compiled by Maria Bamundo, distances from Middle Earth Map, shortest reported, rounded to the nearest 25 miles.
+http://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/439611/middleearthlargelargerstill_medium.jpg
