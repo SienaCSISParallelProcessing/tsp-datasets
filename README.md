@@ -1,12 +1,20 @@
 # tsp-datasets
-Datasets for TSP project
+Datasets for Pacheco's TSP programs
 
-Please fork this repository, commit and push new data files to your
-fork, then submit pull requests to have them pulled into the master
-repository.  Mention which datasets your group contributed in your
-response to the appropriate question in your TSP project submission.
+CSIS-335 students: please fork this repository, commit and push new
+data files to your fork, then submit pull requests to have them pulled
+into the original version of this repository.  Mention which datasets
+you contributed in your response to the appropriate question in your
+TSP lab's README.md.
 
-# List of Data Sets (Keep in order by size)
+# Generating from METAL data
+
+The `tmg2tsp` directory contains a C program that can generate TSP
+input files from METAL `.tmg` files.  Please do not include files
+generated in this manner in this repository.  They can easily enough
+be generated on demand.
+
+# List of contriubuted Data Sets (please keep in order by size)
 
 * Some SUNY schools.  8 places.  Contributed by Matt Pigliavento.
 
